@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jamal</h1>
 <h3 align="center">A passionate polyglot programmer with a keen interests on DevOps and cloud computing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamal-0xf&label=Profile%20views&color=0e75b6&style=flat" alt="jamal-0xf" /> </p>
-
-<p align="left"> <a href="https://twitter.com/jamaluddinsanto" target="blank"><img src="https://img.shields.io/twitter/follow/jamaluddinsanto?logo=twitter&style=for-the-badge" alt="jamaluddinsanto" /></a> </p>
-
 - 🌱 I’m currently learning Machine Learning and Artificial Intellegence **TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamal-0xf](https://github.com/jamal-0xf)
