@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jamal</h1>
-<h3 align="center">A passionate polyglot programmer with a keen interests on DevOps and cloud computing.</h3>
+<h1>Hi 👋, I'm Jamal</h1>
+<h3>A passionate polyglot programmer with a keen interests on DevOps and cloud computing, and machine learning</h3>
 
-- 🌱 I’m currently learning Machine Learning and Artificial Intellegence.
+- 🌱 I’m currently working on Web development, Machine Learning, Artificial Intellegence, IoT, and anything that can be make easier with Technology.
 
 - 👨‍💻 All of my projects are available at [@jamal-io](https://github.com/jamal-io)
 
