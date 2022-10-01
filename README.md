@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on Web development, Machine Learning, Artificial Intellegence, IoT, and anything that can be make easier with Technology.
 
-- 👨‍💻 All of my projects are available at [@jamal-io](https://github.com/jamal-io)
+- 👨‍💻 See my public projects on GitHub [@jamal-io](https://github.com/jamal-io)
 
 - 🐦 Find me on Twitter [@jamaluddinsanto](https://twitter.com/jamaluddinsanto)
 
