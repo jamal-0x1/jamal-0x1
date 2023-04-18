@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jamal</h1>
-<h3>A passionate polyglot programmer with a keen interests on DevOps and cloud computing, and machine learning</h3>
+<h3>A passionate polyglot programmer with a keen interests on DevOps, cloud computing, and machine learning</h3>
 
 - 🌱 I’m currently working on Web development, Machine Learning, Artificial Intellegence, IoT, and anything that can be make easier with Technology.
 
