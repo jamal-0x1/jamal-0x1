@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Jamal</h1>
-<h3>A passionate polyglot programmer with a keen interests on DevOps, cloud computing, and machine learning</h3>
+<h3>A passionate polyglot programmer with a keen interest in DevOps, cloud computing, and machine learning</h3>
 
-- 🌱 I’m currently working on Web development, Machine Learning, Artificial Intellegence, IoT, and anything that can be make easier with Technology.
+- 🌱 I’m currently working on Web development, Machine Learning, AI, IoT, and anything that can make life easier with Technology.
 
-- 👨‍💻 See my public projects on GitHub [@jamal-hex](https://github.com/jamal-hex)
+- 👨‍💻 See my public projects on GitHub [@jamal-0x1](https://github.com/jamal-0x1)
 
 - 🐦 Find me on Twitter [@jamaluddinsanto](https://twitter.com/jamaluddinsanto)
 
