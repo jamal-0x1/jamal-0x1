@@ -5,7 +5,7 @@
 
 - 👨‍💻 See my public projects on GitHub [@jamal-0x1](https://github.com/jamal-0x1)
 
-- 🐦 Find me on Twitter [@HeyJamalUddin](https://twitter.com/HeyJamalUddin)
+- 🐦 Find me on 𝕏 [@HeyJamalUddin](https://twitter.com/HeyJamalUddin)
 
 - 💻 Visit my website at [https://www.insightnode.com/](https://insightnode.com)
 
